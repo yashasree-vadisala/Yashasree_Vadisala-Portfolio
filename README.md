@@ -1,4 +1,5 @@
-Yashasree Vadisala - Portfolio Website
+# Yashasree_Vadisala-Portfolio
+
 This is a personal portfolio website created by me, a 2nd-year B.Tech Computer Science (Data Science) student at Vignan's Institute of Information Technology, Visakhapatnam.
 
 🔍 About the Website
